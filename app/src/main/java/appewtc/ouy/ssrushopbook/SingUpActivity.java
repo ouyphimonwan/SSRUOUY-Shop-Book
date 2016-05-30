@@ -43,10 +43,14 @@ public class SingUpActivity extends AppCompatActivity {
             myAlert.myDialog(this,"มีช่องว่าง","กรุณากรอกทุกช่องค่ะ");
         } else {
             //No Space
+            uploadNewUser();
 
         }
 
 
     } //clickSign
+    private  void uploadNewUser() {
+
+    }//uploadNewUser
 
 } //Main Class
