@@ -22,7 +22,7 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Sing IN"
+            android:text="SignIN"
             android:id="@+id/button"
             android:layout_gravity="bottom" />
 
@@ -30,8 +30,9 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/button2"
-            android:layout_gravity="สมัครสมาชิก"
-            android:onClick="clickSignUpMain" />
+            android:layout_gravity="bottom"
+            android:onClick="clickSignUpMain"
+            android:text="@string/signup" />
     </LinearLayout>
 
 </RelativeLayout>
