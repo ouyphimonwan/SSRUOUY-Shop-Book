@@ -45,7 +45,7 @@ public class SingUpActivity extends AppCompatActivity {
             //No Space
 
         }
-    //
+
 
     } //clickSign
 
